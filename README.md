@@ -4,7 +4,8 @@ Este projeto realiza uma investigação profunda em uma base de dados de demiss�
 
 ## 📂 Estrutura de Arquivos
 
-* **`Project 1 - Data Cleaning.sql`**: O projeto. Contém as consultas SQL avançadas para análise exploratória. **Importante:** Este arquivo já utiliza a base de dados em seu estado limpo e tratado.
+* **`Project 1 - Data Cleaning.sql`**: O projeto. Contém as consultas SQL avançadas para análise exploratória. 
+  > **Importante:** Este arquivo utiliza o dataset `layoffs_staging2` (dados já limpos e tratados anteriormente).
 
 ## 📊 Conclusão da Análise e Habilidades Aplicadas
 
